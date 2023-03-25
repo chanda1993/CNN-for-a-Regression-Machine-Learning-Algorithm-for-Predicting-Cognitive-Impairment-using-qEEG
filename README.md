@@ -13,8 +13,6 @@ Keywords: Neurodegenerative Diseases, Electroencephalography, Supervised Machine
 
 Study framework.
 
-![Fig 1](https://user-images.githubusercontent.com/46183754/227709146-97f9cde4-5a7c-4103-a169-2163b174bff6.jpg)
-
-
+![Fig 1](https://user-images.githubusercontent.com/46183754/227709283-0dced95b-e1f8-43a7-b7fc-5804ca1774a3.jpg)
 
 Abbreviations: CNN, convolutional neural network; FFN, feed-forward neural network; HC, healthy controls; MCI, mild cognitive impairment. 
